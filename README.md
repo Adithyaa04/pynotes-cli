@@ -1,5 +1,5 @@
 # pynotes-cli
-A lightweight, open-source command-line note-taking application built with Python
+A lightweight,open-source command-line note-taking application built with Python
 
 PyNotes CLI helps you create, organize, search, and manage notes directly from your terminal without opening a separate application.
 
